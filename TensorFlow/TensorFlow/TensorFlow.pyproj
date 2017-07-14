@@ -5,8 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>eb9d26e9-e149-474f-ac83-3e85d99e5af7</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>
-    </StartupFile>
+    <StartupFile>gradient_descent.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -28,6 +27,7 @@
     <InterpreterReference Include="{72e049e2-8f32-43ba-912e-96df0c7cbbd1}\3.5" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="gradient_descent.py" />
     <Compile Include="least_squares.py" />
   </ItemGroup>
   <PropertyGroup>
